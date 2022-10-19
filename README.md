@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Tyson Mills, Full Stack Software Engineer from Mississippi.
+## Tyson Mills | Full Stack Software Engineer from Mississippi
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
